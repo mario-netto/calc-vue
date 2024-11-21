@@ -53,6 +53,7 @@
         font-weight: bold;
         margin-top: 24px;
         padding-bottom: 24px;
+        color: rgb(19, 19, 19);
     }
 
     input,
